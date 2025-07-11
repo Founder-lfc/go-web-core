@@ -18,6 +18,7 @@ require (
 	github.com/smartystreets/goconvey v1.8.1
 	github.com/spf13/cast v1.9.2
 	github.com/xuri/excelize/v2 v2.9.1
+	go.uber.org/zap v1.27.0
 	golang.org/x/crypto v0.39.0
 	google.golang.org/grpc v1.73.0
 	google.golang.org/protobuf v1.36.6
@@ -64,7 +65,6 @@ require (
 	github.com/xuri/efp v0.0.1 // indirect
 	github.com/xuri/nfp v0.0.1 // indirect
 	go.uber.org/multierr v1.10.0 // indirect
-	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/arch v0.8.0 // indirect
 	golang.org/x/image v0.25.0 // indirect
 	golang.org/x/net v0.40.0 // indirect

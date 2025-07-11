@@ -139,6 +139,8 @@ github.com/xuri/excelize/v2 v2.9.1 h1:VdSGk+rraGmgLHGFaGG9/9IWu1nj4ufjJ7uwMDtj8Q
 github.com/xuri/excelize/v2 v2.9.1/go.mod h1:x7L6pKz2dvo9ejrRuD8Lnl98z4JLt0TGAwjhW+EiP8s=
 github.com/xuri/nfp v0.0.1 h1:MDamSGatIvp8uOmDP8FnmjuQpu90NzdJxo7242ANR9Q=
 github.com/xuri/nfp v0.0.1/go.mod h1:WwHg+CVyzlv/TX9xqBFXEZAuxOPxn2k1GNHwG41IIUQ=
+go.uber.org/goleak v1.3.0 h1:2K3zAYmnTNqV73imy9J1T3WC+gmCePx2hEGkimedGto=
+go.uber.org/goleak v1.3.0/go.mod h1:CoHD4mav9JJNrW/WLlf7HGZPjdw8EucARQHekz1X6bE=
 go.uber.org/multierr v1.10.0 h1:S0h4aNzvfcFsC3dRF1jLoaov7oRaKqRGC/pUEJ2yvPQ=
 go.uber.org/multierr v1.10.0/go.mod h1:20+QtiLqy0Nd6FdQB9TLXag12DsQkrbs3htMFfDN80Y=
 go.uber.org/zap v1.27.0 h1:aJMhYGrd5QSmlpLMr2MftRKl7t8J8PTZPA732ud/XR8=
